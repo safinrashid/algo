@@ -1,0 +1,13 @@
+m=3 n=10
+Donor 0 Hospital -1
+Donor 1 Hospital 1
+Donor 2 Hospital -1
+Donor 3 Hospital -1
+Donor 4 Hospital -1
+Donor 5 Hospital -1
+Donor 6 Hospital -1
+Donor 7 Hospital 2
+Donor 8 Hospital 0
+Donor 9 Hospital -1
+Gale-Shapley Hospital Optimal: stable? true
+

@@ -1,0 +1,16 @@
+1.txt
+length:     3   
+diameter:   2
+
+25.txt
+length:     98
+diameter:   15
+
+med.txt
+length:     271
+diameter:   14
+
+
+# Note: There can be alternate values for the diameter that are correct for a given graph.
+# ie med.txt 16 is also a valid diameter depending on the MST that is selected. However, as 
+# stated many times we will provide you a specific mst.
